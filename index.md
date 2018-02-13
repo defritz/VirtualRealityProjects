@@ -2,7 +2,8 @@ This is my [personal page](https://defritz.github.io/VirtualRealityProjects/) fo
 
 # Presentations
 
-[LooxidVR Presentation](http://slides.com/defritz/looxidvr) for the Student's Choice research project.
+Student's Choice Materials:<p>
+[LooxidVR Presentation](http://slides.com/defritz/looxidvr)<p>
 [LooxidVR Report](https://docs.google.com/document/d/15F6ZcYDMS7KjwbVSC__XDGJRfIWCVWCtFGpTO4WQplI/edit?usp=sharing)
 
 
