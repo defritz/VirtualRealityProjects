@@ -1,8 +1,9 @@
-This is my personal page for hosting my projects and presentations for CS 4331.
+This is my [personal page](https://defritz.github.io/VirtualRealityProjects/) for hosting projects and presentations for CS 4331.
 
 # Presentations
 
 [LooxidVR Presentation](http://slides.com/defritz/looxidvr) for the Student's Choice research project.
+[LooxidVR Report](https://docs.google.com/document/d/15F6ZcYDMS7KjwbVSC__XDGJRfIWCVWCtFGpTO4WQplI/edit?usp=sharing)
 
 
 # Projects
