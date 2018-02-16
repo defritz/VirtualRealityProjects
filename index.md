@@ -9,7 +9,7 @@ Student's Choice Materials:
 # Projects
 
 ### Project 1:
-Project 1 is focused on constructing a human-scale scene using javascript frameworks three.js and A-frame.
+<p>Project 1 is focused on constructing a human-scale scene using javascript frameworks three.js and A-frame.</p>
 [Project 1 Repository](https://github.com/joyellealina/DreamHomeVR) | [Project 1 Demo](https://joyellealina.github.io/DreamHomeVR/Project1/index.html)
 
 ### Project 2:
