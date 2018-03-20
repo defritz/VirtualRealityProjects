@@ -19,7 +19,9 @@ Project 1 is focused on constructing a human-scale scene using javascript framew
 [Project 1 Demo](https://joyellealina.github.io/DreamHomeVR/Project1/index.html)
 
 ### Project 2:
-This is a placeholder for project 2 content.
+Project 2 is focused on constructing a virtual world utilizing existing data and allowing for user interaction from the outside-in. Implemented using Unity and associated libraries.
+
+[Project 2 Repository](https://github.com/joyellealina/VRWatershedGame)
 
 ### Project 3:
 This is a placeholder for project 3 content.
